@@ -2,3 +2,6 @@ Hii Hariharan
 Welcome to Python Learning
 Oops concept 
 Python Classes
+Python
+SQL
+JavaScript
